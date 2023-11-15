@@ -3,6 +3,8 @@ Real-time face recognition via webcam using Python's face_recognition library an
 
 
 ## Recognize and Detect Multiple Faces
+![Screenshot 2023-11-14 181544](https://github.com/garghg/PyFaceRecGUI/assets/139658164/85902e10-c8c7-4c78-bee1-86c774c6ba1e)
+
 
 ## Files
 
