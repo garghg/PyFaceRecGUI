@@ -47,7 +47,7 @@ class FaceRecognition:
 
             face_names.append(name)
         
-        # Display the results
+        # Draw a rectangle around faces to show detection and recognition
         for (top, right, bottom, left), name in zip(face_locations, face_names):
             # Scale up face locations to the original size and draw a rectangle around the detected face(s)
             top *= 4
