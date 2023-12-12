@@ -7,7 +7,7 @@ Real-time face recognition via webcam using Python's face_recognition library an
 
 ## Flowchart
 <p align="center">
-  <img width="460" height="300" src=![Flowchart](https://github.com/garghg/PyFaceRecGUI/assets/139658164/d0ece961-ea1a-4c59-9e9a-961db701512a)>
+  <img src=![Flowchart](https://github.com/garghg/PyFaceRecGUI/assets/139658164/d0ece961-ea1a-4c59-9e9a-961db701512a)>
 </p>
 
 
