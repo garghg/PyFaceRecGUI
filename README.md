@@ -23,7 +23,7 @@ Implements the GUI using PyQt5 to create a user interface for the face recogniti
 
 - face_recognition
 - numpy
-- cv2
+- OpenCV or cv2
 - PyQt5
 - python 3.9.0
 
