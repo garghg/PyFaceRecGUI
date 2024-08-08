@@ -43,6 +43,7 @@ To run the application, follow these steps:
 - numpy
 - cv2
 - PyQt5
+- python 3.9.0
 
 ## Notes
 
