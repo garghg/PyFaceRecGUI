@@ -27,14 +27,6 @@ Implements the GUI using PyQt5 to create a user interface for the face recogniti
 - PyQt5
 - python 3.9.0
 
-## Setup
-
-To run the application, follow these steps:
-
-1. Install the required dependencies mentioned above.
-2. Run face_recognition_module.py to start the face recognition code.
-3. Run gui_rec.py and start running the GUI respectively.
-
 ## Usage
 
 1. Run face_recognition_module.py to load the face recognition code in memory for GUI to use.
