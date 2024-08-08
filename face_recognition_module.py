@@ -1,5 +1,3 @@
-#Reference: https://github.com/ageitgey/face_recognition/blob/master/examples/facerec_from_webcam_faster.py
-
 import face_recognition
 import os
 import cv2
