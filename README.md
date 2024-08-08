@@ -19,15 +19,21 @@ Contains the face recognition logic utilizing the face_recognition library to re
 ### gui_rec.py
 Implements the GUI using PyQt5 to create a user interface for the face recognition functionality.
 
+## Dependencies
+
+- face_recognition
+- numpy
+- cv2
+- PyQt5
+- python 3.9.0
+
 ## Setup
 
 To run the application, follow these steps:
 
-1. Install the required libraries: face_recognition, numpy, cv2, and PyQt5.
-   
-2. Install Python 3.9.0 on your system.
-
-3. Run face_recognition_module.py and then run gui_rec.py to run the face recognition code and the GUI respectively.
+1. Install the required dependencies mentioned above.
+2. Run face_recognition_module.py to start the face recognition code.
+3. Run gui_rec.py and start running the GUI respectively.
 
 ## Usage
 
@@ -37,13 +43,6 @@ To run the application, follow these steps:
 
 3. Use the GUI buttons to start or stop face recognition and exit the app.
 
-## Dependencies
-
-- face_recognition
-- numpy
-- cv2
-- PyQt5
-- python 3.9.0
 
 ## Notes
 
