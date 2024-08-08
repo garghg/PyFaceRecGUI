@@ -56,4 +56,4 @@ To run the application, follow these steps:
 - The PyQt5 GUI functionality is based on the official PyQt documentation.
 
 
-**_Feel free to contribute, report issues, or suggest improvements!_**
+**_Please feel free to contribute, report issues, or suggest improvements! _**
