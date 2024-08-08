@@ -49,7 +49,7 @@ To run the application, follow these steps:
 - Ensure you have a folder named faces containing images of faces for recognition. (*One image per person should be enough*)
 - The GUI allows users to start and stop the recognition process.
 
-## Credits
+## References
 
 - The face recognition logic is based on [ageitgey's face_recognition library](https://github.com/ageitgey/face_recognition).
 - The PyQt5 GUI functionality is based on the official PyQt documentation.
